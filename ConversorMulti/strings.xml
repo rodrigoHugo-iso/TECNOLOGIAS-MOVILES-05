@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConversorMulti</string>
+
+    <string-array name="monedas">
+        <item>Dólar</item>
+        <item>Sol</item>
+        <item>Euro</item>
+        <item>Libra</item>
+        <item>Rupia</item>
+        <item>Real</item>
+        <item>Peso</item>
+        <item>Yuan</item>
+        <item>Yen</item>
+    </string-array>
+</resources>
