@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="dolares">A Soles</string>
+    <string name="soles">A Dolares</string>
+    <string name="convertir">Calcular</string>
+    <string name="mi_clic_manejador">miClicManejador</string>
+    <color name="nuevo_color">#C5E2F0</color>
+</resources>
