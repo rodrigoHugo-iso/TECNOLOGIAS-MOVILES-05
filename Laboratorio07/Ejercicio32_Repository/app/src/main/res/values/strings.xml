@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio 32 - Repository</string>
+    <string name="hint_codigo">Código del artículo</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_precio">Precio</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_listar">Listar Todos</string>
+</resources>
