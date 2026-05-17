@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Almacenamiento Externo</string>
+    <string name="hint_texto">Ingresa algún texto para guardar</string>
+    <string name="btn_guardar">Guardar en Externo</string>
+    <string name="btn_cargar">Cargar desde Externo</string>
+    <string name="btn_verificar">Verificar Disponibilidad</string>
+</resources>
