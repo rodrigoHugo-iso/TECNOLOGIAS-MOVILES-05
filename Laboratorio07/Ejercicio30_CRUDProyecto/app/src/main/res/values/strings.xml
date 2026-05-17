@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRUD Proyecto</string>
+    <string name="lbl_id">ID del Estudiante</string>
+    <string name="lbl_nombre">Nombre completo</string>
+    <string name="lbl_carrera">Carrera</string>
+    <string name="lbl_ciclo">Ciclo</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_listar">Listar Todos</string>
+</resources>
