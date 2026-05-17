@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio 31 - Flow</string>
+    <string name="hint_codigo">Código</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_precio">Precio</string>
+    <string name="btn_agregar">Agregar Artículo</string>
+    <string name="btn_eliminar">Eliminar por Código</string>
+    <string name="tv_lista">Lista en tiempo real (Flow):</string>
+</resources>
