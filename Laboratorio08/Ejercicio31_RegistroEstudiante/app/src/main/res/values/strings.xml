@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Registro Estudiante</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_carrera">Carrera</string>
+    <string name="hint_curso">Curso</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
