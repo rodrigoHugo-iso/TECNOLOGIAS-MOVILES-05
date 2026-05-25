@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD Estudiantes</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_carrera">Carrera</string>
+    <string name="hint_curso">Curso</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="label_lista">Estudiantes (mantén presionado para editar/eliminar)</string>
+</resources>
