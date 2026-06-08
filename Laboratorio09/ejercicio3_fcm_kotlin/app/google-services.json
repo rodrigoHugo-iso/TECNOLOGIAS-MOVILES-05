@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940191554743",
+    "project_id": "ejer3fcm",
+    "storage_bucket": "ejer3fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940191554743:android:89e5a1fbf2645fa84b4132",
+        "android_client_info": {
+          "package_name": "com.ucsm.fcmapp.service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2kSHzuM1hRa_GWyewRaDw-sd0B8FXVIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
