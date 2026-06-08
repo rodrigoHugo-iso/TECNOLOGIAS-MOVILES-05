@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574565293140",
+    "project_id": "proyectoatu-5c8f2",
+    "storage_bucket": "proyectoatu-5c8f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574565293140:android:e420489077d20e19d4a1c1",
+        "android_client_info": {
+          "package_name": "com.ucsm.taskauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWH2WjjedtrRxk9HehcF4pOzeenOQbxc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
